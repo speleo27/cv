@@ -14,8 +14,8 @@
   </div>
   <div id=contenu>
     <img class='avatar' src='../images/concorde.jpg' alt=''>
-    <p id='contact'>4 rue du four <br />
-      10400 Pont sur Seine<br />
+    <p id='contact'>14 grande ruelle <br />
+      10100 Crancey<br />
       <i class='material-icons contact-icons'> phone</i><a href='tel:0603935298'>06.03.93.52.98</a><br />
         <i class='material-icons contact-icons'> mail_outline </i><a
             href='mailto:seb10400@orange.fr'>seb10400@orange.fr</a>
